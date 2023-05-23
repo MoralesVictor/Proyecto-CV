@@ -1,0 +1,12 @@
+img {
+    width: 10%;
+    height: auto;
+  }
+
+.body{
+border: 10px solid gray;
+padding: 5px;
+width:1000px;
+height: 1000 px;
+text-align: justify;
+}
